@@ -5,14 +5,14 @@ Hi I made this project during the 7 days Free Bootcamp conducted by <b> SHAPEAI<
 The Instructor during the session was Mr.Shaurya Sinha(Data Analyst Intern at Jio). I got to learn a lot during these 7 days and it was an amazing experience learning with SHAPEAI.
 
 I got to have hands on experience on:
-    Python
-    Machine Learning
-    Numpy
-    Pandas
-    sklearn
-    Linear Regression
-    Mean squared error
-    Matplotlib
+    Python,
+    Machine Learning,
+    Numpy,
+    Pandas,
+    sklearn,
+    Linear Regression,
+    Mean squared error,
+    Matplotlib.
 
 
 **.. _boston_dataset:**
